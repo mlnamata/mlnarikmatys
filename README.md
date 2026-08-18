@@ -60,3 +60,4 @@ Komponenty z něj jen čtou — přidání ocenění nebo řádku ve stacku nevy
 - **prefers-reduced-motion**: vypíná Lenis i CSS animace.
 - **Vlastní kurzor** se aktivuje jen na `(hover: hover) and (pointer: fine)`.
 # mlnarikmatys
+# mlnarikmatys
